@@ -25,7 +25,7 @@ function App() {
       <input
         type="text"
         onChange={(e) => setvalue(e.target.value)}
-        placeholder="Enter here"
+        placeholder="Type something here..."
       />
 
       {sugges
